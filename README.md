@@ -1,2 +1,2 @@
-# MNIST_handwritten_digits
+# MNIST_handwritten_digit
 mnist by pytorch
